@@ -1,17 +1,15 @@
 ### State of AppSec Survey Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+* <i class="fas fa-egg" style="font-size: 1em; color:#A569BD;"></i> Incubator Project
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+#### Classification
+* <i class="fas fa-book" style="color:#233e81;"></i> Documentation
+
+#### Audience
+* <i class="fas fa-toolbox" style="color:#A569BD;"></i> Builder
+* <i class="fas fa-shield-alt" style="color:blue;"></i> Defender
 
 ### Code Repository
-* [repo](#)
+* [Github Repo](https://github.com/OWASP/www-project-state-of-appsec-survey)
 
 ### Change Log
-* [changes](#)
-
+* [Commit History](https://github.com/OWASP/www-project-state-of-appsec-survey/commits/master)
