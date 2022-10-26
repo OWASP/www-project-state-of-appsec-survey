@@ -12,4 +12,4 @@
 * [Github Repo](https://github.com/OWASP/www-project-state-of-appsec-survey)
 
 ### Change Log
-* [Commit History](https://github.com/OWASP/www-project-state-of-appsec-survey/commits/master)
+* [Commit History](https://github.com/OWASP/www-project-state-of-appsec-survey/commits/main)
